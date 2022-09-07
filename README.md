@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pascal! 
-- 👀 I’m interested in Indie Game Dev, DevOps and Fullstack Development.
-- 🌱 I’m currently learning Fullstack Development, DevOps and just trying stuff :) 
+- 👀 I’m interested in Cloud Computing, DevOps and Indie Game Development.
+- 🌱 I’m currently learning (newbie) and just trying new stuff :) 
 
 <!---
 delasoul23/delasoul23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
